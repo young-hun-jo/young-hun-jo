@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Younghun.(<a href='https://techblog-history-younghunjo1.tistory.com/'>Here is my dev blog!</a)
+## 👋 Hello, I'm Younghun.(<a href='https://techblog-history-younghunjo1.tistory.com/'>Here is my dev blog!</a>)
 #### 🐙 My GitHub.io pages is <a href='https://young-hun-jo.github.io/'>here</a>. You can see many things that I have done!
 
 - 🎓 I have majored in Bigdata engineering and Health adiministration at Soonchunhyang Univ.<br><br>
