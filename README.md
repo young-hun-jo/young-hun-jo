@@ -1,9 +1,9 @@
 <h2 align='center'>Hi, there! 👋🏾 &nbsp I'm Younghun, &nbsp🧠 AI engineer</h2>
 <h3 align='center'>🧑‍💻 Career</h3>
 <p align='center'>
-  ⋆ LINE, AI engineer Intern &nbsp(2022.01.03~) 
+  ⋆ LINE, AI engineer Intern &nbsp(2022.01~) 
   <br>
-  ⋆ Market Kurly, Data Scientist Intern &nbsp(2021.05.24~2021.08.23)
+  ⋆ Market Kurly, Data Scientist Intern &nbsp(2021.05~2021.08)
 </p>
 
 <h3 align="center">🦾 Main Stack 🦾</h3>
