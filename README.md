@@ -3,7 +3,7 @@
 <p align='center'>
   ⋆ Kakao Mobility, ML Engineer (2022.05~)
   <br>
-  ⋆ Kakao Mobility, ML Engineer Intern &nbsp(2022.02~)
+  ⋆ Kakao Mobility, ML Engineer Intern &nbsp(2022.02~2022.05)
   <br>
   ⋆ LINE, AI Engineer Intern &nbsp(2022.01~2022.01) 
   <br>
