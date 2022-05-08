@@ -1,9 +1,11 @@
 <h2 align='center'>Hi, there! 👋🏾 &nbsp I'm Younghun, &nbsp🧠 AI engineer</h2>
 <h3 align='center'>🧑‍💻 Career</h3>
 <p align='center'>
-  ⋆ Kakao Mobility, AI engineer Intern &nbsp(2022.02~)
+  ⋆ Kakao Mobility, ML Engineer (2022.05~)
   <br>
-  ⋆ LINE, AI engineer Intern &nbsp(2022.01~2022.01) 
+  ⋆ Kakao Mobility, ML Engineer Intern &nbsp(2022.02~)
+  <br>
+  ⋆ LINE, AI Engineer Intern &nbsp(2022.01~2022.01) 
   <br>
   ⋆ Market Kurly, Data Scientist Intern &nbsp(2021.05~2021.08)
 </p>
