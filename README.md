@@ -1,4 +1,5 @@
 <h2 align='center'>Hi, there! 👋🏾 &nbsp I'm Younghun, &nbsp🧠 AI engineer</h2>
+<!--
 <h3 align='center'>🧑‍💻 Career</h3>
 <p align='center'>
   ⋆ kakao mobility, ML Engineer (2022.05~)
@@ -9,7 +10,7 @@
   <br>
   ⋆ Market Kurly, Data Scientist Intern &nbsp(2021.05~2021.08)
 </p>
-
+-->
 <h3 align="center">🦾 Main Stack 🦾</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
